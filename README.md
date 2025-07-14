@@ -17,7 +17,7 @@ This project delivers a data-driven analysis of breast cancer using the METABRIC
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](./images/Dashboard-Preview.png.png)
+![Dashboard Screenshot](./images/Dashboard-Preview.png)
 
 ---
 
